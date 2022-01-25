@@ -6,12 +6,17 @@
 이(가)   은(는)  을(를) 과(와)
 
 ---몹---
-Gorgon 고르곤
-Drauven 드라우븐
+Gorgon 고르곤 
+>>
+	Halfglance Gorgon 반흘김 고르곤
+	Gorgon Seacaller 고르곤 바다부름꾼
+
+Drauven 드라우브들  (Drauv 드라우브 (단수형)) 아니면 용에 기원을 둔 파충류니까 용파족?	
 Thrixl 스릭슬?
 Morthagi 모르 뭐시기? 영어 병신
 Deepist 디피스트, 깊은 자들. 코드상으로는 Cultist라고도 써있는데 이름 정하는 데 영향은 못 줄 듯
 Yondering Land 멀 원에 멀 경자 써서 원경지 어떰? 조금 -짱-같은가. 공식 중국어 번역은 요원지지(辽远之地)를 사용함
+Essence Torches 정수요화
 
 ---변신---
 ~touched = ~손길
@@ -60,9 +65,11 @@ Blurb = 설명문
 Bonus damage = 추가 피해
 Book = 도서
 Calamity = 재앙
+Captain = 지휘관
 Charisma =  매력
+Chapter = 챕터
 Claim = 착용
-Company = 
+Company = 일행
 Clothes = 의복? 의상? 뭐라고 썼던 것 같기도 하고
 Corruption = 타락, 분위기나 묘사는 역병이 더 괜찮아보이는데 일단 타락으로 써둠
 Dazzled = 혼란, 보통 혼란은 confused 쓰던데 좀 더 까리한 거 있으면 좋을 듯
@@ -112,6 +119,8 @@ Hook = 기질
 Incursion = 습격
 Infestation = 점령
 Ingot = 덩이쇠
+Interfusion = 정신융합
+Interval = 
 Item = 물품
 Job = 작업
 Knight = 대부, 사대부 할 때 그 대부임. 기사 하면 말을 타야 하는데 knight 호칭을 갖고 있으면서 말은 고사하고 뭘 타고 다니는 애가 없어서 이렇게 번역함
@@ -135,7 +144,7 @@ Note: = 참고:
 Objective = 목표
 Outfitter = 양장점
 Overland = 지도상(바꿀 필요가 있는 듯)
-Party = 단원? 그냥 파티 전체를 지칭할 때는 뭐로 해야 할까
+Party = 단원? 그냥 파티 전체를 지칭할 때는 뭐로 해야 할까 -->  모험단이 어떨까요?
 Passive = 자동
 Patrol = 순찰
 Phantom = 망령
@@ -143,7 +152,7 @@ Pierce = 관통
 Pinned = 고정
 Potency = 정신력
 Primal Altar = 고대 제단
-Quarry = 채석장
+Quarry = 채석장, 사냥감!!이라는 뜻도 있네요
 Range = 사거리
 Ranged attack = 원거리 공격
 Ranger = 수비데
